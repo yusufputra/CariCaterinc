@@ -1,0 +1,69 @@
+ body{
+  background-image: url("image/bg.jpg");
+
+ }
+  .penjual {
+    color: #F9AE2C;
+  }
+  .carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #F1C40F;
+  }
+
+  .carousel-indicators li {
+    border-color: #F1C40F;
+  }
+
+  .carousel-indicators li.active {
+      background-color: #F1C40F;
+  }
+
+  .bg-1{
+    background: #FFE928;
+    color: #191919;
+    min-height: 120pt;
+  }
+
+
+  .margin{
+    margin: 20pt;
+    color: #9d9d9d;
+    
+  }
+
+  .margin2{
+    margin-top: 30pt;
+    margin-bottom: 30pt;
+    color: #9d9d9d;
+  }
+  
+  .margin3{
+    margin-top: 10pt;
+    margin-bottom: 30pt;
+    color: #9d9d9d;
+    font-size: 60px;
+  }
+
+  .login{
+    background: #FEC128;
+    color: #FFFFFF;
+    display: block;
+    }
+
+
+  .about{
+    padding-top: 5em;
+  }
+
+  .media-heading{
+    font-size: 16px;
+  }
+
+  .home{ 
+    padding: 5% 5% 5% 5%;
+    background: #F9AE2C;
+  }
+
+  .title{
+    height: 40px;
+  }

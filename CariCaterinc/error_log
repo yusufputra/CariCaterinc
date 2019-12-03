@@ -1,0 +1,180 @@
+[14-Jun-2017 13:12:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:14:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 /home/caricate/public_html/Caricatering V1.1/index.php(113): include_once()
+#1 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:16:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:19:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/caricate/public_html/Caricatering V1.1/connection.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 9
+[14-Jun-2017 13:19:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 10
+[14-Jun-2017 13:21:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/caricate/public_html/Caricatering V1.1/connection.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/caricate/public_html/Caricatering V1.1/connection.php on line 14
+[14-Jun-2017 13:35:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:35:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:35:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:37:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:37:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:37:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:37:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:37:42 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:41:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:43:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:43:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:43:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:43:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:43:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:45:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:45:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:45:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:45:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:45:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:45:38 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:46:18 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:48:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:48:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:49:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:49:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:49:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:49:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:49:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:49:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:50:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:54:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:54:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:54:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:54:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:55:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:55:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:55:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:55:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:55:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:55:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:55:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:55:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:56:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:56:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:56:08 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:56:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 13:56:10 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 13:56:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 14:49:33 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 14:49:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 14:50:02 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 14:50:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 14:50:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 14:50:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[14-Jun-2017 14:50:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[14-Jun-2017 14:50:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[15-Jun-2017 08:54:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 08:54:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[15-Jun-2017 09:04:53 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:04:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[15-Jun-2017 09:08:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:08:46 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:08:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:09:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:09:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:09:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:09:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[15-Jun-2017 09:09:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:09:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[15-Jun-2017 09:16:04 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[15-Jun-2017 09:16:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home/caricate/public_html/Caricatering V1.1/home.php on line 13
+[15-Jun-2017 09:56:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/caricate/public_html/Caricatering V1.1/index.php on line 124
+[13-Nov-2017 05:53:31 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[13-Nov-2017 14:21:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[21-Nov-2017 22:26:27 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[23-Nov-2017 23:08:14 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[25-Nov-2017 01:10:55 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[25-Nov-2017 04:27:45 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 16:53:39 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/caricate/public_html/home.php on line 11
+[27-Nov-2017 16:56:39 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/caricate/public_html/home.php on line 11
+[27-Nov-2017 17:01:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:12:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:19:34 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:20:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:20:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:20:32 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/caricate/public_html/home.php on line 11
+[27-Nov-2017 17:20:32 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/caricate/public_html/home.php on line 11
+[27-Nov-2017 17:20:32 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on null in /home/caricate/public_html/home.php on line 11
+[27-Nov-2017 17:22:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:22:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:22:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:22:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:22:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:22:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:26:14 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:26:47 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:26:52 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:26:54 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:26:57 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:27:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:27:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:27:14 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:27:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:27:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16
+[27-Nov-2017 17:27:34 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'caricate'@'localhost' (using password: YES) in /home/caricate/public_html/connection.php on line 16

@@ -1,0 +1,107 @@
+#map {
+        height: 100%;
+      }
+ body{
+    background-color: #DA3A24;
+    background-image: url(/ProjectWork/image/bg.jpg);
+    background-size: 100%;
+  }
+
+  .jumbotron{
+    background-color: none;
+  }
+
+  .container-fluid{
+    margin-top: 5pt;
+  }
+
+  .container{
+    margin-top: 5pt;
+    padding: 0px;
+  }
+  .penjual {
+    color: #F9AE2C;
+  }
+  .nav {
+    font-size: 16px;
+    font-family: Helvetica Neue",Helvetica,Arial,sans-serif";
+  }
+
+  .navbar{
+    min-height: 60pt;
+    margin-bottom: 0pt;
+    border-radius: 0pt;
+  }
+
+  .navbar-nav{
+    margin-top: 15pt;
+  }
+
+  li.active{
+    background-color: #e74c3c;
+  }
+
+  .carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #F1C40F;
+  }
+
+  .carousel-indicators li {
+    border-color: #F1C40F;
+  }
+
+  .carousel-indicators li.active {
+      background-color: #F1C40F;
+  }
+
+  .bg-1{
+    background: #FEC128;
+    color: #FFFFFF;
+    min-height: 120pt;
+  }
+
+  .bg-4{
+    background: #222;
+  }
+
+  .margin{
+    margin: 20pt;
+    color: #9d9d9d;
+    
+  }
+
+  .margin2{
+    margin-top: 30pt;
+    margin-bottom: 30pt;
+    color: #9d9d9d;
+  }
+  
+  .margin3{
+    margin-top: 10pt;
+    margin-bottom: 30pt;
+    color: #9d9d9d;
+    font-size: 60px;
+  }
+/*  a{
+    color: #9d9d9d;
+  }
+
+  a:hover{
+    color: #ffffff;
+    text-decoration: none;
+  }
+*/
+  .login{
+    background: #FEC128;
+    color: #FFFFFF;
+    display: block;
+    }
+
+  .btn{
+    width: 100%;
+  }
+
+  .jumbotron{
+    margin-bottom: 0px;
+    padding-bottom: 20%;
+  }
